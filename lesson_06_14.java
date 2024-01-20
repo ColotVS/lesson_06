@@ -9,7 +9,7 @@ public class lesson_06_14 {
                     System.out.print(MULTIPLICATION_TABLE[i-1][j-1]+" ");
 
                 }
-                System.out.println("");
+                System.out.println();
 
             }
 
